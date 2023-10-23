@@ -1,0 +1,40 @@
+{
+  "main": [
+    {
+      "id": 1,
+      "imgSrc": "img",
+      "destTitle": "Changed",
+      "location": "New Zealand",
+      "grade": "CULTURAL RELAX",
+      "fees": "$700",
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit incidunt quidem itaque. Esse odit ad odio! Tempore delectus ullam perspiciatis, officia minus vitae, quasi adipisci, quae sunt laudantium vel sed."
+    },
+    {
+      "id": 2,
+      "imgSrc": "img2",
+      "destTitle": "Constant",
+      "location": "New Zealand",
+      "grade": "CULTURAL RELAX",
+      "fees": "$800",
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit incidunt quidem itaque. Esse odit ad odio! Tempore delectus ullam perspiciatis, officia minus vitae, quasi adipisci, quae sunt laudantium vel sed."
+    },
+    {
+      "id": 3,
+      "imgSrc": "img3",
+      "destTitle": "Changed",
+      "location": "Syria",
+      "grade": "CULTURAL RELAX",
+      "fees": "$1700",
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit incidunt quidem itaque. Esse odit ad odio! Tempore delectus ullam perspiciatis, officia minus vitae, quasi adipisci, quae sunt laudantium vel sed."
+    },
+    {
+      "id": 4,
+      "imgSrc": "img4",
+      "destTitle": "Germany",
+      "location": "New Zealand",
+      "grade": "CULTURAL RELAX",
+      "fees": "$7000",
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit incidunt quidem itaque. Esse odit ad odio! Tempore delectus ullam perspiciatis, officia minus vitae, quasi adipisci, quae sunt laudantium vel sed."
+    }
+  ]
+}
